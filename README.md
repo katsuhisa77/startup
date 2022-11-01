@@ -1,1 +1,1 @@
-# startip
+# startup
